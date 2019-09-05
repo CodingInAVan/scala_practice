@@ -17,16 +17,7 @@ project/plugins/project/
 *.class
 *.log
 
-.idea/compiler.xml
-.idea/google-java-format.xml
-.idea/libraries/
-.idea/misc.xml
-.idea/modules.xml
-.idea/modules/
-.idea/sbt.xml
-.idea/scala_compiler.xml
-.idea/sonarlint/
-.idea/workspace.xml
+.idea
 build.sbt
 project/build.properties
 src/
