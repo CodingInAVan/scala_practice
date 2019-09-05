@@ -18,6 +18,4 @@ project/plugins/project/
 *.log
 
 .idea
-build.sbt
 project/build.properties
-src/
